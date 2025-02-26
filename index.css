@@ -1,0 +1,10 @@
+.head-div{
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+}
